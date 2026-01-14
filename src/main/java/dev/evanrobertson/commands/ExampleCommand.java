@@ -1,4 +1,4 @@
-package dev.hytalemodding.commands;
+package dev.evanrobertson.commands;
 
 import com.hypixel.hytale.server.core.Message;
 import com.hypixel.hytale.server.core.command.system.CommandContext;
