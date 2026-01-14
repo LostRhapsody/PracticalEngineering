@@ -1,20 +1,20 @@
 {
-  "Group": "dev.hytalemodding",
-  "Name": "ExamplePlugin",
+  "Group": "dev.evanrobertson.hytale",
+  "Name": "PracticalEngineering",
   "Version": "1.0.0",
-  "Description": "Description of your plugin",
+  "Description": "It's engineering... practically.",
   "Authors": [
     {
-      "Name": "Your Name",
-      "Email": "your.email@example.com",
-      "Url": "https://your-website.com"
+      "Name": "Evan Robertson",
+      "Email": "evan.robertson77@gmail.com",
+      "Url": "https://evanrobertson.dev"
     }
   ],
-  "Website": "https://your-plugin-website.com",
+  "Website": "https://evanrobertson.dev/practical-engineering",
   "ServerVersion": "*",
   "Dependencies": {},
   "OptionalDependencies": {},
   "DisabledByDefault": false,
   "IncludesAssetPack": false,
-  "Main": "dev.hytalemodding.ExamplePlugin"
+  "Main": "dev.evanrobertson.PracticalEngineering"
 }
