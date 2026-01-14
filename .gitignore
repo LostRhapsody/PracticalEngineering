@@ -37,3 +37,16 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Logs ###
+*.log
+
+### Hytale Specific ###
+mods/
+universe/
+auth.enc
+bans.json
+config.json
+config.json.bak
+permissions.json
+whitelist.json

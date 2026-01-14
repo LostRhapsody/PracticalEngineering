@@ -8,9 +8,9 @@ import dev.evanrobertson.events.ExampleEvent;
 
 import javax.annotation.Nonnull;
 
-public class ExamplePlugin extends JavaPlugin {
+public class PracticalEngineering extends JavaPlugin {
 
-    public ExamplePlugin(@Nonnull JavaPluginInit init) {
+    public PracticalEngineering(@Nonnull JavaPluginInit init) {
         super(init);
     }
 
